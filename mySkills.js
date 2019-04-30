@@ -1,31 +1,28 @@
 //// Add Skills Here... /////
 ////////////////////////////
 const Main_Technologies = {
-    HTML: 0,
-    CSS: 0,
-    JavaScript: 0,
-    TypeScript: 0,
-    Python: 0,
-    PHP: 0,
-    SQL: 0,
+   'HTML(5)/CSS(3)': 90,
+   'JavaScript(ES6+)': 70,
+    TypeScript: 30,
+    Python: 10,
+    PHP: 10,
+    SQL: 10,
 };
 
 const Libraries_and_Frameworks = {
-    React_Redux: 0,
-    VueJS: 0,
-    Angular: 0,
-    jQuery: 0,
-    Bootstrap: 0,
-    Sass: 0,
-    Less: 0,
+   'React/Redux': 70,
+    VueJS: 10,
+    jQuery: 60,
+    Bootstrap: 70,
+    Sass: 70,
+    Less: 10,
 };
 
 const Other_Technologies = {
-    Git: 0,
-    NodeJS: 0,
-    Webpack: 0,
-    Gulp: 0,
-    MySQL: 0,
-    MongoDB: 0,
-    WordPress: 0,
+    Git: 70,
+    NodeJS: 30,
+    Webpack: 30,
+    Gulp: 10,
+    MySQL: 10,
+    WordPress: 30,
 };
