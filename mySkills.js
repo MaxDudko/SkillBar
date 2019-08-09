@@ -10,7 +10,7 @@ const Main_Technologies = {
 };
 
 const Libraries_and_Frameworks = {
-    React: 60,
+    React: 70,
     Vue: 30,
     Angular: 10,
     jQuery: 60,
